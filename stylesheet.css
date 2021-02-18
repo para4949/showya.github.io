@@ -1,0 +1,16 @@
+@charest "UTF-8";
+.title{
+  background-color: #fff799;
+}
+.title h1{
+text-align: center;
+
+}
+.main-header{
+  background-color: #f9e900;
+}
+
+.contents{
+  float: left;
+width: 33%;
+}
